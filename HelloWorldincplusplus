@@ -1,0 +1,11 @@
+// My First C++ Program
+// Exporting this to an arduino with an LCD
+
+
+#include <iostream>
+
+int main() {
+    std::count << "Hello World!";
+    return 0;
+
+}
